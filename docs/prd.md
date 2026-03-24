@@ -10,6 +10,7 @@ itens por raridade e consultar dados técnicos de miniaturas.
 
 # **2. Atores do Sistema**
 **Visitante:**  Usuário acessa a aplicação para explorar o catálogo público de lançamentos, visualizar detalhes técnicos e buscar miniaturas específicas via API.
+
 **Colecionador (Usuário):** Usuário autenticado que pode gerenciar sua própria garagem, adicionar miniaturas à sua coleção física virtual, filtrar por raridade e 
 alternar preferências de interface (Modo Noturno).
 
