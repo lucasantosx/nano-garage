@@ -15,25 +15,25 @@ Em andamento
 Em Andamento
 
 # 💻 Tecnologias e Dependências
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
-Framework CSS: Bootstrap 5.3
+- Framework CSS: Bootstrap 5.3
 
 O projeto utiliza o Bootstrap como framework CSS principal devido aos seguintes fatores:
 
-Alta responsividade com sistema de grid flexível
+- Alta responsividade com sistema de grid flexível
 
-Documentação extensa e de fácil compreensão
+- Documentação extensa e de fácil compreensão
 
-Grande comunidade e suporte
+- Grande comunidade e suporte
 
-Componentes prontos (navbar, cards, modais), acelerando o desenvolvimento
+- Componentes prontos (navbar, cards, modais), acelerando o desenvolvimento
 
-Compatibilidade com diversos navegadores
+- Compatibilidade com diversos navegadores
 
 # ✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 Em andamento
