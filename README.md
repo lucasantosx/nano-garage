@@ -22,6 +22,18 @@ Em Andamento
 - JavaScript
 
 - FrameWorkCSS: Bootstrap 5.3.3
+  
+O projeto utiliza o Bootstrap como framework CSS principal por oferecer as seguintes funcionalidades:
+
+- Sua alta responsividade em grids responsivos;
+- Organização do layout em diferentes plataformas;
+- Modernidade dos formulários;
+- Facilita a implementação de temas escuros nativamente;
+
+
+
+
+
 
 
 # ✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
