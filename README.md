@@ -16,9 +16,13 @@ Em Andamento
 
 # 💻 Tecnologias e Dependências
 HTML
+
 CSS
+
 JavaScript
+
 Framework CSS: Bootstrap 5.3
+
 O projeto utiliza o Bootstrap como framework CSS principal devido aos seguintes fatores:
 
 Alta responsividade com sistema de grid flexível
