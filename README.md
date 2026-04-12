@@ -15,13 +15,13 @@ Em andamento
 Em Andamento
 
 # 💻 Tecnologias e Dependências
--HTML
+- HTML
 
--CSS
+- CSS
 
--JavaScript
+- JavaScript
 
--FrameWorkCSS: Bootstrap 5.3.3
+- FrameWorkCSS: Bootstrap 5.3.3
 
 
 # ✅ Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
