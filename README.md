@@ -30,7 +30,7 @@ O projeto utiliza o Bootstrap como framework CSS principal por oferecer as segui
 - Modernidade dos formulários;
 - Facilita a implementação de temas escuros nativamente;
 
-#API Pública: Brickset API (v3)
+# API Pública: Brickset API (v3)
 
 Foi escolhida a API Brickset pelos seguintes pontos:
 
