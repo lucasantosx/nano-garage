@@ -42,7 +42,7 @@ erDiagram
         string prioridade "Alta/Baixa"
     }
 
-## 🏗️ Especificações Técnicas
+##  Especificações Técnicas
 
 ### Front-end
 - **Framework CSS:** Bootstrap v5.3.3 (via CDN).
