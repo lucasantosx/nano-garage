@@ -53,5 +53,4 @@ erDiagram
 ### Integrações (APIs)
 - **ViaCEP API (v1):** Utilizada no formulário de cadastro de perfil para autocompletar o endereço do colecionador (Setor de Coleção).
   - *Endpoint:* `https://viacep.com.br/ws/{cep}/json/`
-- **[Opcional] CoinGecko API (v3):** Para converter valores estimados da coleção de USD para BRL em tempo real.
 
