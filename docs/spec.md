@@ -16,7 +16,8 @@ erDiagram
     MINIATURA {
         string id PK
         string nome_modelo
-        string numero_serie
+        string marca "Ex: Hot Wheels"
+        string raridade "Ex: STH, RLC, Mainline"
         string cor_principal
         int ano_lancamento
         string serie_id FK
@@ -40,3 +41,5 @@ erDiagram
         string nome_modelo
         string prioridade "Alta/Baixa"
     }
+```
+
